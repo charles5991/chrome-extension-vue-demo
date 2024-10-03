@@ -8,7 +8,7 @@
     </div>
     <div class="page__text-area">
       <h3 class="page__title">
-        暂无报告获取记录
+        暂无记录
       </h3>
       <el-button
         class="page__link"

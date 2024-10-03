@@ -13,7 +13,7 @@
         />
         <el-dropdown trigger="click">
           <span class="el-dropdown-link">
-            <span>zz745838333333</span>
+            <span>user001</span>
             <i class="el-icon-caret-bottom el-icon--right" />
           </span>
           <el-dropdown-menu
