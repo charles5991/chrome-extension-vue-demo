@@ -5,7 +5,7 @@
         class="page__logo"
         :src="logo"
       />
-      <span class="page__title">EC Amazon Tool</span>
+      <span class="page__title">Test Tool</span>
     </div>
     <el-form
       class="page__main"

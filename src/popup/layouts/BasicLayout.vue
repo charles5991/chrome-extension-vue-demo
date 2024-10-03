@@ -34,11 +34,6 @@
       <div class="layout__version">
         版本号： {{ config.version }}
       </div>
-      <div class="layout__action">
-        <el-link type="success">
-          操作日志
-        </el-link>
-      </div>
     </el-footer>
   </el-container>
 </template>
