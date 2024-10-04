@@ -5,7 +5,7 @@
         class="page__logo"
         :src="logo"
       />
-      <span class="page__title">Test Tool</span>
+      <span class="page__title">插件开发</span>
     </div>
     <el-form
       class="page__main"
@@ -97,6 +97,8 @@ export default {
 }
 .page__logo {
   margin-right: 16px;
+  width: 100px;
+  height: 100px;
 }
 .page__title {
   color: #000001;

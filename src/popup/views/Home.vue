@@ -3,7 +3,7 @@
     <div class="page__banner-area">
       <el-image
         :src="banner"
-        :style="{ width: '346px', height: '148px' }"
+        :style="{ width: '100px', height: '100px' }"
       />
     </div>
     <div class="page__text-area">
